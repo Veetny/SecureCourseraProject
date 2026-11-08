@@ -1,0 +1,11 @@
+The Vulnerabilities that were noticed were SQL injection and cross site scripting risks. I was helped to try to implement parameterized SQL queries and that I should setup a SQLite database to perform integration testing.
+
+2nd Vulnerability was to stop potential harmful scripts. And then help that they would not be executed for xss protection.
+
+Debugging was also present where when I ran the code I would run in to several grammar and programming errors. These were quickly fixed.
+
+I also ran playwright tests to further test the apps security.
+
+I ran 26 NUnit tests and 2 Playwright tests when checking security of the app.
+
+After making these fixes I finally could realize that a human will probably never succeed in patching all of the holes so that a AI might not notice.
